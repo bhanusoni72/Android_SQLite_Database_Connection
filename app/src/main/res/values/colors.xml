@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorBackgroundBorder">#FFF86402</color>
+    <color name="colorBackground">#FFF86402</color>
+    <color name="colorButtonBackground">#FDD008</color>
+    <color name="colorButtonBackgroundBorder">#FFE1B703</color>
+    <color name="colorAddPageBorder">#FF0C0CA1</color>
+    <color name="colorListSelectedColor">#FFE1E1E1</color>
+    <color name="colorlistNotSelectedColor">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+</resources>

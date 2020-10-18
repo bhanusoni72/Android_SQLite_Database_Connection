@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android_SQLite_Database</string>
+    <string name="First_Page_Heading">Student Table</string>
+    <string name="Add_Data">Add</string>
+    <string name="Show_Data">Show</string>
+    <string name="Delete_Data">Delete</string>
+    <string name="Clear_All_Data">Clear</string>
+    <string name="Student_Name">Name</string>
+    <string name="Student_Marks">Marks</string>
+    <string name="Add_data_page">Add Student</string>
+    <string name="Show_data_page">Show Student</string>
+    <string name="Delete_page">Delete Student</string>
+</resources>
